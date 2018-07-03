@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="gay_weather_kotlin"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.xyq.gayweatherkotlin.db.Province"/>
+        <mapping class="com.xyq.gayweatherkotlin.db.City"/>
+        <mapping class="com.xyq.gayweatherkotlin.db.County"/>
+    </list>
+</litepal>
